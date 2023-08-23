@@ -7,13 +7,6 @@
 
 <h6 align="left">I am Narendharakumar Krishnamoorthy, a highly motivated and passionate second-year computer science student based in Chennai, India. With a strong desire to explore new territories and embrace fresh perspectives, I approach my educational journey with zeal. I am committed to pushing my boundaries and making the most out of my educational experience.<br><br>Having a genuine enthusiasm for computer science, I possess a range of soft skills such as strong problem-solving and analytical abilities, excellent communication and teamwork skills, as well as a keen eye for detail. Additionally, I have developed a solid foundation in various hard skills including programming languages such as Java and Python, database management, and web development.<br><br>I am driven by the goal of expanding my knowledge and skills in the field of computer science. I aspire to secure a challenging internship or part-time position in a reputable organization to gain valuable hands-on experience. Ultimately, my aim is to pursue a successful career as a professional software developer and contribute to innovation in the tech industry.</h6>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021</p>
 
 ###
 
